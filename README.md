@@ -8,3 +8,5 @@
 git будет игнорировать каталоги .terraform, .tfstate файлы, файлы crash.log, файлы *.tfvars содержащие значения переменных таких как ключи и пароли, файлы содержащие в наименовании override.tf, а также конфигурационные файлы CLI
 
 New line added into fix branch
+
+New line added with pycharm
