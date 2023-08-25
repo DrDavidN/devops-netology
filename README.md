@@ -10,3 +10,5 @@ git будет игнорировать каталоги .terraform, .tfstate ф
 New line added into fix branch
 
 New line added with pycharm
+
+----
